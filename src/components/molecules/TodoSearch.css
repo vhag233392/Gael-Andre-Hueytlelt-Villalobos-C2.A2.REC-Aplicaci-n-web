@@ -1,0 +1,12 @@
+input{
+
+    
+    background-color: black;
+    color: aliceblue;
+    border: 0px;
+    
+}
+
+input:hover{
+    border: 2px SOLID #a200ff;
+}
